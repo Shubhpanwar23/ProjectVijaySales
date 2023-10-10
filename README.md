@@ -1,2 +1,2 @@
 # ProjectVijaySales
-Ecommerce for vijaysales
+Ecommerce source files for vijaysales
